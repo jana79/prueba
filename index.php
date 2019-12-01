@@ -16,6 +16,7 @@ switch ($_POST['calc']) {
         echo "<br/>Vas a dividir";
         break;
 }
+// Añado un comentario nuevo
 
 ?>
 
